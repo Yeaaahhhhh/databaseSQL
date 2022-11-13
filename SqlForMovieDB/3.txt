@@ -1,0 +1,2 @@
+-- Question 3 xiangtia
+It will count how many streamed movies that their votes are greater than average votes and their runtime are less than average runtime.

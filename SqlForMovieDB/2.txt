@@ -1,0 +1,2 @@
+-- Question 2 xiangtia
+It will find in which year that the movies streamed on Netflix and have more than 50 revenue.
